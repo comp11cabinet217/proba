@@ -1,0 +1,39 @@
+#wrap{width: 600px;
+	margin:0 auto;}
+#header{
+	
+	height: 50px;
+	background: "1.jpg"	;
+}
+#content{
+height: 600px;
+background: #F4E3FA;
+ position: static;
+ margin: margin-left: 50px;;
+}
+#block1{
+	width: 600px;
+	height: 180px;
+background: #674AF7;
+position: relative;
+margin:0 auto;
+
+}
+#block2{
+	width: 500px;
+	height: 80px;
+background: #DAF74A;
+margin:0 auto;
+
+}
+#block3{
+	width: 500px;
+	height: 80px;
+background: #4AF7BE;
+margin:0 auto;
+}
+#footer{
+	height: 50px;
+	background: #F74A83;
+
+}
